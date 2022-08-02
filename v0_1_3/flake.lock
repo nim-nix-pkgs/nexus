@@ -485,7 +485,7 @@
         "karax": "karax",
         "nixpkgs": "nixpkgs",
         "quickjwt": "quickjwt",
-        "src-nexus-main": "src-nexus-main",
+        "src-nexus-v0_1_3": "src-nexus-v0_1_3",
         "yaml": "yaml"
       }
     },
@@ -744,7 +744,7 @@
         "type": "github"
       }
     },
-    "src-nexus-main": {
+    "src-nexus-v0_1_3": {
       "flake": false,
       "locked": {
         "lastModified": 1659426256,
@@ -756,7 +756,7 @@
       },
       "original": {
         "owner": "jfilby",
-        "ref": "refs/heads/main",
+        "ref": "refs/tags/v0.1.3",
         "repo": "nexus",
         "type": "github"
       }
