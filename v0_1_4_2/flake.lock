@@ -485,7 +485,7 @@
         "karax": "karax",
         "nixpkgs": "nixpkgs",
         "quickjwt": "quickjwt",
-        "src-nexus-main": "src-nexus-main",
+        "src-nexus-v0_1_4_2": "src-nexus-v0_1_4_2",
         "yaml": "yaml"
       }
     },
@@ -744,19 +744,19 @@
         "type": "github"
       }
     },
-    "src-nexus-main": {
+    "src-nexus-v0_1_4_2": {
       "flake": false,
       "locked": {
-        "lastModified": 1659707582,
-        "narHash": "sha256-ILKFhVOOiCtIUbBhehCeuya9JEGA73KXLG/tce65vuc=",
+        "lastModified": 1659700469,
+        "narHash": "sha256-UVtSUcz7qmj+3KpHtw8Vv1xTks7V/EzeRFHrATbiglM=",
         "owner": "jfilby",
         "repo": "nexus",
-        "rev": "f298a2d54651d30c74f39689a7ed2b0b805ee203",
+        "rev": "7ae40316859833b257eeb93623cd82023cd82843",
         "type": "github"
       },
       "original": {
         "owner": "jfilby",
-        "ref": "refs/heads/main",
+        "ref": "refs/tags/v0.1.4.2",
         "repo": "nexus",
         "type": "github"
       }
